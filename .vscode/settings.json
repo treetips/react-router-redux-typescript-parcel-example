@@ -1,0 +1,8 @@
+{
+  // https://vscode-doc-jp.github.io/docs/getstarted/settings.html
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  }
+}
